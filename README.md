@@ -9,6 +9,6 @@ Boat Racing Game is a Java-based project created as part of an Object-Oriented P
   - Trap: Boat moves backwards x number of steps
   - Current: Boat moves forward x number of steps
 * The first player who reaches the 100th-column wins the game.
-* The Top 5 players with the highest score is displayed in the scoreboard.
+* The Top 5 players with the highest score are displayed on the scoreboard.
 
 # Game Demonstration
