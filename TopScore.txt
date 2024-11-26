@@ -1,0 +1,5 @@
+15 | beyonce | Easy
+17 | jane | Easy
+18 | james | Medium
+29 | lily | Medium
+30 | jane | Hard
