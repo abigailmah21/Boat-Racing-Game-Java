@@ -11,4 +11,8 @@ Boat Racing Game is a Java-based project created as part of an Object-Oriented P
 * The first player who reaches the 100th-column wins the game.
 * The Top 5 players with the highest score are displayed on the scoreboard.
 
-## Game Demonstration
+## Demonstration
+
+![image](https://github.com/user-attachments/assets/c5674fcb-ac06-436f-9668-eed1022b040c)
+
+* The Top 5 players with the highest scores will be displayed along with their scores and the difficulty level they chose.
