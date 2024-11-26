@@ -13,6 +13,7 @@ Boat Racing Game is a Java-based project created as part of an Object-Oriented P
 
 ## Game Demonstration
 * The Top 5 players with the highest scores will be displayed along with their scores and the difficulty level they chose.
+* The Top 5 scores will also be updated and stored in the 'TopScore.txt' file after each round.
 
 ![image](https://github.com/user-attachments/assets/8d9f3e41-e987-4aa4-b6ee-6a0ac8ca2aff)
 
